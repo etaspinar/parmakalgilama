@@ -1,0 +1,3 @@
+Tüm kodların ne için kullanıldığını yorum satırı olarak ekledim. 
+
+Kullanıcının 2. masaüstünü manuel olarak açtığını varsayarak yaptım. 
